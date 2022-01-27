@@ -6,7 +6,7 @@
 
 对于以上的复现重点，可以参考以下示例图进一步了解具体实现思路：
 - batch操作
-![avatar]pyg-based-graph-network/picture/graph_batch.PNG
+![avatar](/pyg-based-graph-network/picture/graph_batch.PNG)
 - 自连接操作
 - 添加supernode
 - torch_scatter.scatter()功能
