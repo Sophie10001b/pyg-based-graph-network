@@ -8,8 +8,11 @@
 - batch操作
 ![batch](/picture/graph_batch.PNG)
 - 自连接操作
+![self-loop](/picture/graph_self-loop.PNG)
 - 添加supernode
+![supernode](/picture/graph_supernode.PNG)
 - torch_scatter.scatter()功能
+![scatter](/picture/graph_neighbour calculate.PNG)
 
 代码运行于如下模块中：
 ```
