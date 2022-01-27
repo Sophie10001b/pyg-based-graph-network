@@ -12,7 +12,7 @@
 - 添加supernode
 ![supernode](/picture/graph_supernode.PNG)
 - torch_scatter.scatter()功能
-![scatter](/picture/graph_neighbour calculate.PNG)
+![scatter](/picture/graph_neighbour_calculate.PNG)
 
 代码运行于如下模块中：
 ```
