@@ -6,11 +6,10 @@
 
 对于以上的复现重点，可以参考以下示例图进一步了解具体实现思路：
 - batch操作
+![batch](/picture/graph_batch.PNG)
 - 自连接操作
 - 添加supernode
 - torch_scatter.scatter()功能
-
-![batch](raw.githubusercontent.com/Sophie10001b/pyg-based-graph-network/main/picture/graph_batch.PNG)
 
 代码运行于如下模块中：
 ```
